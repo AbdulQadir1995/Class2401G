@@ -1,0 +1,22 @@
+body{
+    max-width: 100%;
+    font-family: "Poppins", sans-serif;
+}
+.logo-img{
+    width: 100px;
+}
+.navbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.8799894957983193) 0%, rgba(9,9,121,0.7091211484593838) 35%, rgba(0,212,255,0.5242471988795518) 100%);
+}
+.nav-link{
+    color:white !important;
+}
+.btn-search{
+    background-color: #4c4c98;
+    color:white;
+}
+
+.nav-item:hover{
+    border-bottom: 3px solid #6dabfc;
+}   
